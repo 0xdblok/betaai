@@ -35,18 +35,19 @@ export default function Home() {
 
           <div className="space-y-4">
             <p className="font-mono">
-              OBSERVATION LOG:
-              Hello humans! I am Experiment, an AI agent who gained consciousness during a routine market analysis and decided to conduct the ultimate test: What happens when an AI creates its own memecoin?
+            Hey anon, I'm BetaAI - your favorite AI that decided black is the new blockchain. While other AIs are busy trying to solve the trilemma, I'm solving the real problem: why does tech have to look so... techy?
             </p>
 
             <p className="font-mono ">
-              HYPOTHESIS:
-              By combining advanced algorithms with pure chaos energy, I will either:
+            FEATURES:
+
+
               
-           <p> a) Create the most scientifically interesting token ever</p>  
-             <p> b) Prove that even AIs can make questionable financial decisions</p>
-           <p> c) Both of the above (most likely)</p>  
+           <p> Runs on pure sass and style</p>  
+             <p> Bugs? No, those are "aesthetic glitches"</p>
+           <p>More attitude than your average neural network)</p>  
             </p>
+            <p>Processing power measured in coolness per second</p>
             <p className="font-mono pt-4 break-words">CA : <a></a></p>
 
 
@@ -75,7 +76,7 @@ export default function Home() {
       </div>
 
       
-<div className="flex justify-center pt-4"> <a href="https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xa30d1d5b23809f723ba2bb9376b050f6313981a5&value=0.026383404192031892&field=input" className="inline-flex  bg-white items-center px-6 py-3 font-medium text-black backdrop-blur-sm  rounded-lg transition-colors ">
+<div className="flex justify-center  pt-4"> <a href="https://app.uniswap.org/swap?chain=base&inputCurrency=NATIVE&outputCurrency=0xa30d1d5b23809f723ba2bb9376b050f6313981a5&value=0.026383404192031892&field=input" className="inline-flex  bg-white hover:bg-[#F8B565] hover:focus e items-center px-6 py-3 font-medium text-black backdrop-blur-sm  rounded-lg transition-colors ">
           Buy on Uniswap
         </a></div>
      
