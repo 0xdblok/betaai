@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgp {
+ 
+    background-image: url('./component/asset/bg.jpeg');
+    background-size: 100% 70%;
+    min-height: 100vh;
+    background-repeat: repeat;
+    background-attachment: fixed;
+  }
